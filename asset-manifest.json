@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kushagra-0/Weather-Website.git/static/css/main.3adc0921.css",
-    "main.js": "/Kushagra-0/Weather-Website.git/static/js/main.0e2ffb39.js",
-    "index.html": "/Kushagra-0/Weather-Website.git/index.html",
-    "main.3adc0921.css.map": "/Kushagra-0/Weather-Website.git/static/css/main.3adc0921.css.map",
-    "main.0e2ffb39.js.map": "/Kushagra-0/Weather-Website.git/static/js/main.0e2ffb39.js.map"
+    "main.css": "/Weather-Website/static/css/main.3adc0921.css",
+    "main.js": "/Weather-Website/static/js/main.0e2ffb39.js",
+    "index.html": "/Weather-Website/index.html",
+    "main.3adc0921.css.map": "/Weather-Website/static/css/main.3adc0921.css.map",
+    "main.0e2ffb39.js.map": "/Weather-Website/static/js/main.0e2ffb39.js.map"
   },
   "entrypoints": [
     "static/css/main.3adc0921.css",
